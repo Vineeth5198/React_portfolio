@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React_portfolio/static/css/main.1de19bcd.css",
+    "main.js": "/React_portfolio/static/js/main.52d5256d.js",
+    "static/media/Vineeth.jpg": "/React_portfolio/static/media/Vineeth.eb125edbeb6ce19a0bc3.jpg",
+    "static/media/VineethResume.pdf": "/React_portfolio/static/media/VineethResume.493aeb20eeda4a74d7bb.pdf",
+    "static/media/python.png": "/React_portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/SQL_logo.png": "/React_portfolio/static/media/SQL_logo.96af83e68e3b32fb2dd7.png",
+    "static/media/Git_Hub_icon.png": "/React_portfolio/static/media/Git_Hub_icon.87a186db3e4860237185.png",
+    "static/media/Git_icon.png": "/React_portfolio/static/media/Git_icon.d45f1900d8999721399f.png",
+    "static/media/sass_logo.png": "/React_portfolio/static/media/sass_logo.b4856dfeb58fd76614f8.png",
+    "static/media/Graphql_icon.png": "/React_portfolio/static/media/Graphql_icon.c2bd9c6d79914cbb077c.png",
+    "static/media/Invision_icon.png": "/React_portfolio/static/media/Invision_icon.30c4e0b8a31573dd1d86.png",
+    "static/media/React_logo.png": "/React_portfolio/static/media/React_logo.d3171bb9aecf97b9892b.png",
+    "static/media/html-5.png": "/React_portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/mongodb_icon.png": "/React_portfolio/static/media/mongodb_icon.62c531c694077b273533.png",
+    "static/media/bootstrap.png": "/React_portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/css-3.png": "/React_portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/typescript.png": "/React_portfolio/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/js.png": "/React_portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/Figma_icon.png": "/React_portfolio/static/media/Figma_icon.2765830775b79febf3a6.png",
+    "index.html": "/React_portfolio/index.html",
+    "main.1de19bcd.css.map": "/React_portfolio/static/css/main.1de19bcd.css.map",
+    "main.52d5256d.js.map": "/React_portfolio/static/js/main.52d5256d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de19bcd.css",
+    "static/js/main.52d5256d.js"
+  ]
+}
